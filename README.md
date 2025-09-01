@@ -45,13 +45,9 @@ The dashboard analyzes Superstore sales data across different regions, segments,
 
 - `supersales.pbix` → Power BI report file.  
 - `SuperStore_Sales_Dataset.csv` → Dataset used for analysis.  
-- `b203e7a9-eca2-41af-a335-0c05fdc538ab.png` → Dashboard preview image.  
-
 ---
 
-## 📸 Dashboard Preview
 
-![Dashboard Preview](b203e7a9-eca2-41af-a335-0c05fdc538ab.png)
 
 ---
 
@@ -63,25 +59,9 @@ The dashboard analyzes Superstore sales data across different regions, segments,
 - **Phones** and **Chairs** are top-performing subcategories.  
 
 ---
+## 👤 Author
 
-## 🔗 How to Use
+Pulagam Ajay Kumar Reddy
+📧 pulagamajaykumarreddy@gmail.com
+🔗https://www.linkedin.com/in/pulagam-ajay-kumar-reddy-7638542a4
 
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/your-username/superstore-sales-dashboard.git
-   ```
-2. Open `supersales.pbix` in **Power BI Desktop**.  
-3. Load `SuperStore_Sales_Dataset.csv` if prompted.  
-4. Explore and interact with the dashboard.
-
----
-
-## 📌 Author
-
-👤 **Your Name**  
-📧 Email: your.email@example.com  
-🔗 [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/your-username)
-
----
-
-⭐ If you found this project useful, consider giving it a **star** on GitHub!
