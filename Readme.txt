@@ -1,7 +1,7 @@
 # 📊 Super Store Sales Dashboard
 
 This project provides an **interactive sales analytics dashboard** built using **Power BI**.  
-The dashboard analyzes Superstore sales data across different regions, segments, and categories to uncover insights into revenue, profit, customer behavior, and shipping performance.
+The dashboard analyzes Superstore sales data across different regions, segments, and categories to uncover insights into profit, customer behavior, and shipping performance.
 
 ---
 
@@ -64,8 +64,11 @@ The dashboard analyzes Superstore sales data across different regions, segments,
 
 ---
 
-## 🔗 How to Use
+## 👤 Author
 
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/your-username/superstore-sales-dashboard.git
+Pulagam Ajay Kumar Reddy
+📧 pulagamajaykumarreddy@gmail.com
+🔗https://www.linkedin.com/in/pulagam-ajay-kumar-reddy-7638542a4
+
+
+
